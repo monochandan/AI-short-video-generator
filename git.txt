@@ -11,3 +11,20 @@ git remote -v
 
 git remote remove origin
 -------------------------------------
+
+------------------------------------------------
+git push -u origin main
+To https://github.com/monochandan/AI-short-video-generator.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/monochandan/AI-short-video-generator.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+git pull origin main
+
+git push -u origin main
+----------------------------------------------
+
+
