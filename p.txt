@@ -1,0 +1,10 @@
+UI: https://ui.shadcn.com/docs/components/button
+
+ORM: https://orm.drizzle.team/docs/drizzle-config-file
+
+user Authentication: https://clerk.com/docs/quickstarts/nextjs
+
+Database: neon.com
+
+
+
