@@ -26,6 +26,9 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/e08a8930-28dd-49b7-9c56-12e1a564d5ea">
 
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/cab87e60-7074-4a73-9fd6-6b960164ce5e">
+
+
 
 ## Learn More
 
