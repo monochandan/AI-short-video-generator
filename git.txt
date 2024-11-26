@@ -1,0 +1,13 @@
+echo "# AI-short-video-generator" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/monochandan/AI-short-video-generator.git
+git push -u origin main
+
+--------------------------------------
+git remote -v
+
+git remote remove origin
+-------------------------------------
