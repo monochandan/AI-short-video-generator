@@ -6,5 +6,9 @@ user Authentication: https://clerk.com/docs/quickstarts/nextjs
 
 Database: neon.com
 
+font: https://fonts.google.com/selection
+
+icons: https://lucide.dev/
+
 
 
