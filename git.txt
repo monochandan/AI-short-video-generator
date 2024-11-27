@@ -26,5 +26,10 @@ git pull origin main
 
 git push -u origin main
 ----------------------------------------------
+PROMPT:
+Write a script to generate a 30-second video on the topic: Interesting historical story
+ along with AI image prompt in Realistic format for each scene and give me result  
+ in JSON format with image prompt and ContentText as field
+ ------------------------------------------------------
 
 

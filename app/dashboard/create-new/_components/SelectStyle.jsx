@@ -39,6 +39,7 @@ function SelectStyle({onUserSelect}) {
                     <Image 
                     src={item.image} width={100} height={100} 
                     className='h-30 object-cover rounded-lg w-full'
+                    alt={item.name}
                     onClick={()=>{
                         setSelectedOption(item.name)
                         onUserSelect('imageStyle', item.name)

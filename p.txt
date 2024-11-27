@@ -11,4 +11,17 @@ font: https://fonts.google.com/selection
 icons: https://lucide.dev/
 
 
+gemini: https://ai.google.dev/gemini-api/docs/downloads?_gl=1*tmnxzv*_ga*MTA0NjY0OTI4OC4xNzMyNjU2OTA2*_ga_P1DBVKWT6V*MTczMjY1NjkwNi4xLjEuMTczMjY1NzAzMS4wLjAuMTEwNDI5NDMyMA..#nodejs
+        https://aistudio.google.com/app/prompts/new_chat
+
+
+
+
+http call (API call): https://axios-http.com/docs/intro
+
+
+loading effect: https://www.flaticon.com/
+
+
+
 
