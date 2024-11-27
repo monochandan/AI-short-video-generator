@@ -20,13 +20,21 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+LANDING PAGE
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/10943658-997b-4303-bd5d-565d8baa183a">
 
+DASHBOARD
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/a002b634-5aa6-48f8-9603-153da9c2373f">
 
+CREATE NEW VIDEO
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/e08a8930-28dd-49b7-9c56-12e1a564d5ea">
 
+USING GOOGLE GEMINI TO GENERATE SCRIPT FROM THE GIVEN PROMPT
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/cab87e60-7074-4a73-9fd6-6b960164ce5e">
+
+GENERATING AND STOARING THE AUDIO IN FIREBASE
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/71b62584-70b8-499c-9704-a8789018bf54">
+
 
 
 
