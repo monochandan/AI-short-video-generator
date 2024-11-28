@@ -22,6 +22,17 @@ http call (API call): https://axios-http.com/docs/intro
 
 loading effect: https://www.flaticon.com/
 
+Text to speech API: https://www.npmjs.com/package/@google-cloud/text-to-speech
+
+
+uniq global identifier: https://www.npmjs.com/package/uuid
+
+store audio: https://console.firebase.google.com/u/0/project/ai-generator-e0185/overview
+
+caption generating: https://www.assemblyai.com/app/
+
+prompt to image generation: https://replicate.com/bytedance/sdxl-lightning-4step
+
 
 
 
